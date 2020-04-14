@@ -8,3 +8,6 @@ adding into line two
 this is dummy project
 
 new line just added
+2nd line added
+3rd line
+4th line
