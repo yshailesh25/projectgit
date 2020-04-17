@@ -1,3 +1,5 @@
 my 1st doc
 
 just added this
+
+check merger vs rebase
