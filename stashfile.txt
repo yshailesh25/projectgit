@@ -1,1 +1,3 @@
 stash related changes added.
+add line to check stash of untrack file
+3rd line
